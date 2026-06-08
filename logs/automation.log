@@ -1,0 +1,6 @@
+16:04:37.827 [main] INFO  testBase.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:14)oggger - **********starting testcase
+16:04:38.289 [main] INFO  testBase.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:19)oggger - **********starting testcase***************
+16:04:38.295 [main] INFO  testBase.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - **********customer details***************
+16:13:37.514 [main] INFO  testBase.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:14)oggger - **********starting testcase
+16:13:37.949 [main] INFO  testBase.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:19)oggger - **********starting testcase***************
+16:13:37.954 [main] INFO  testBase.TC001_AccountRegistrationTest.verify_registration(TC001_AccountRegistrationTest.java:22)oggger - **********customer details***************
